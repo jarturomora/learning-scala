@@ -1,0 +1,62 @@
+(11,1.4,A value)
+(11,1.4,true,A value)
+Triple quotes let
+you have many lines
+in your string
+4
+It's true!
+It's true!
+It's false
+It's false
+42
+Normal weight
+true
+true
+false
+Underweight
+Operating hours: 9 - 20
+false
+Operating hours: 9 - 20
+true
+Operating hours: 9 - 20
+true
+Normal weight
+Inside multiplyByTwo
+10
+Inside addMultiply
+33.6
+Inside addMultiply
+result: 33.6
+Main$$anon$1$Giraffe@52cd3c9
+Main$$anon$1$Giraffe@420433c6
+Main$$anon$1$Hippo@21e32e06
+Main$$anon$1$Bear@49e29d4b
+This is in the class body
+0
+0
+7
+5.0
+6.0
+Janet Doe is SomeBody
+Janet Doe is SomeBody
+Janet Doe is SomeBody
+Janet Doe is SomeBody
+Somewhere
+over
+the
+rainbow
+> 1
+> 2
+> 3
+> 4
+> 1
+> 2
+> 3
+> 4
+now
+now
+now
+OttoBoughtAnAuto
+OttoBoughtAnAuto
+OttoBoughtAnAutoMain$$anon$1$Surrey@55b1bfe0
+Recursion
