@@ -29,3 +29,6 @@ class Temperature {
 val temp = new Temperature
 temp.setFarenheit(98.6)
 temp.getFarenheit() is 98.6
+temp.gerCelsius is 37.0
+temp.setCelsius(100)
+temp.getFarenheit is 212.0
